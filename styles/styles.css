@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Press+Start+2P&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Press+Start+2P&display=swap");
 
 * {
   margin: 0;
@@ -60,8 +60,8 @@ body {
 }
 
 .nav_container_links_links {
-    text-decoration: none;
-    color: var(--cor-secundaria);
+  text-decoration: none;
+  color: var(--cor-secundaria);
 }
 
 .site_container_titulo {
@@ -74,7 +74,7 @@ body {
 }
 
 .site_noticias {
-    padding: 0px 0px 10px 90px;
+  padding: 0px 0px 10px 90px;
   font-family: var(--fonte-principal);
   font-size: 20px;
 }
@@ -137,8 +137,8 @@ body {
 }
 
 .card_link_link {
-    text-decoration: none;
-    color: var(--cor-terciaria);
+  text-decoration: none;
+  color: var(--cor-terciaria);
 }
 
 .site_sobre {
@@ -167,7 +167,7 @@ body {
   font-family: var(--fonte-secundaria);
   font-size: 26px;
   text-align: left;
-  color: #B1A7A6;
+  color: #b1a7a6;
 }
 
 .site_newsletter {
@@ -189,10 +189,10 @@ body {
 }
 
 .newsletter_titulo {
-    font-family: var(--fonte-secundaria);
-    font-weight: 500;
-    font-size: 26px;
-    padding: 38px;
+  font-family: var(--fonte-secundaria);
+  font-weight: 500;
+  font-size: 26px;
+  padding: 38px;
 }
 
 .newsletter_form {
@@ -216,7 +216,8 @@ body {
   gap: 30px;
 }
 
-.newsletter_form form input, form textarea {
+.newsletter_form form input,
+form textarea {
   outline: unset;
   border-radius: 10px;
   height: 45px;
@@ -269,27 +270,27 @@ body {
 }
 
 .rodape {
-    background-color: var(--cor-primaria);
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+  background-color: var(--cor-primaria);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .rodape_texto {
-    color: var(--cor-secundaria);   
-    padding: 22px 0px 22px 0px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    font-family: var(--fonte-secundaria);
-    font-weight: 500;
-    font-size: 19px;
+  color: var(--cor-secundaria);
+  padding: 22px 0px 22px 0px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--fonte-secundaria);
+  font-weight: 500;
+  font-size: 19px;
 }
 
 .rodape_botoes {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    padding: 30px;
-    gap: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 30px;
+  gap: 20px;
 }
