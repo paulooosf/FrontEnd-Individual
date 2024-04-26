@@ -186,6 +186,11 @@ body {
     padding: 38px;
 }
 
+.newsletter_form {
+  display: flex;
+  flex-direction: column;
+}
+
 .rodape {
     background-color: var(--cor-primaria);
     display: flex;
@@ -204,9 +209,10 @@ body {
     font-size: 19px;
 }
 
-.rodape_linkedin {
+.rodape_botoes {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
-    padding-right: 30px;
+    padding: 30px;
+    gap: 20px;
 }
