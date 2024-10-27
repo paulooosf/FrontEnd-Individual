@@ -1,9 +1,17 @@
-# Portal PokéManíacos
+<h1 align="center">Portal PokéManíacos</h1>
+<h4 align="center">Este projeto se trata de um portal de notícias. Fomos apresentados a um modelo de site no figma com funcionalidades pré definidas para ser replicado seguindo o tema
+de nossa escolha. Eu acabei escolhendo o tema Pokémon, assim desenvolvendo o portal PokéManíacos.</h4>
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black">
+  <img alt="CSS3" src="https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black">
+</p>
+<p align="center">
+  <a href="#resumo">Resumo</a> •
+  <a href="#imagens">Imagens</a> •
+  <a href="#créditos">Créditos</a>
+</p>
 
-Este projeto se trata de um portal de notícias. Fomos apresentados a um
-modelo de site no figma com funcionalidades pré definidas para ser replicado seguindo o tema
-de nossa escolha. Eu acabei escolhendo o tema Pokémon, assim desenvolvendo o portal PokéManíacos.
-
+## Resumo
 O projeto foi desenvolvido durante as primeiras aulas da disciplina de FrontEnd Essencial da Residência
 em TIC/Software do Serratec, onde tive minha primeira introdução às lingagens HTML5 e CSS3. No projeto, foram 
 praticados os seguintes conceitos:
@@ -16,12 +24,11 @@ praticados os seguintes conceitos:
 * Criação e manipulação de formulários e checkboxes;
 * Funções para Hover.
 
-# Resultado
-<a href="https://paulooosf.github.io/FrontEnd-Individual/" target="_blank">DEPLOY</a>
-<p></p>
-<img src="https://cdn.discordapp.com/attachments/886489485599182909/1233550814845337610/image.png?ex=662d8138&is=662c2fb8&hm=5a4cc1ef01f34dfa8cec583b4e7c9cbe989134674d0f7179f805fdffa2f1d0ee&"/>
-<img src="https://cdn.discordapp.com/attachments/886489485599182909/1233550862006353930/image.png?ex=662d8143&is=662c2fc3&hm=cbfb11175ae935aed3bb5485015074f23d5b1eacf12bf3c980af526526c496ee&"/>
-<img src="https://cdn.discordapp.com/attachments/886489485599182909/1233550928250933248/image.png?ex=662d8153&is=662c2fd3&hm=4408820436d84574731487d6dab6cefd6571d1ba56296d4ec7bc018f9c3474f1&"/>
+## Imagens
+<p align="center"><a align="center" href="https://paulooosf.github.io/FrontEnd-Individual/" target="_blank">DEPLOY</a></p>
+<img src="https://i.imgur.com/gd9lDYK.png"/>
+<img src="https://i.imgur.com/RPQ2Mtk.png"/>
+<img src="https://i.imgur.com/ackeHIA.png"/>
 
-_Desenvolvido individualmente por Paulo Henrique_
-
+## Créditos
+- Paulo Henrique - [paulooosf](http://github.com/paulooosf)
